@@ -6,6 +6,7 @@ public class AtividadesLacos2 {
     public static void main(String[] args) {
 
         int idade, tMe21 = 0, tMa50 = 0;
+        Scanner leia = new Scanner(System.in);
 
         System.out.println("\nDigite a idade: ");
         idade = leia.nextInt();
@@ -29,3 +30,4 @@ public class AtividadesLacos2 {
 
     }
 }
+
