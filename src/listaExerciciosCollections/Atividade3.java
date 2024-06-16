@@ -33,6 +33,8 @@ public class Atividade3 {
             System.out.println(iterator.next());
         }
 
+        System.out.println("\n\t****************** Fim... ********************");
+
 
     }
 }
