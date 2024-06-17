@@ -53,10 +53,10 @@ public class AtividadePilha1 {
 
     public static void exibirMenu() {
         System.out.println("\n**** Menu ****");
-        System.out.println("1: Adicionar livro na pilha");
-        System.out.println("2: Listar os livros na pilha");
-        System.out.println("3: Retirar livro da pilha");
-        System.out.println("0: Finalizar o programa");
-        System.out.print("Digite a opção desejada: ");
+        System.out.println("\n\t1: Adicionar livro na pilha");
+        System.out.println("\n\t2: Listar os livros na pilha");
+        System.out.println("\n\t3: Retirar livro da pilha");
+        System.out.println("\n\t0: Finalizar o programa");
+        System.out.print("\n\tDigite a opção desejada: ");
     }
 }

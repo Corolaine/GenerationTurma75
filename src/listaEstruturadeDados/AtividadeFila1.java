@@ -51,10 +51,10 @@ public class AtividadeFila1 {
     }
     public static void exibirMenu() {
         System.out.println("\n\t****************** Menu ********************");
-        System.out.println("\t1 - Adicionar cliente na fila");
-        System.out.println("\t2 - Listar clientes da fila");
-        System.out.println("\t3 - Atender um cliente");
-        System.out.println("\t0 - Sair do programa");
-        System.out.print("\tEscolha uma opção: ");
+        System.out.println("\n\t1 - Adicionar cliente na fila");
+        System.out.println("\n\t2 - Listar clientes da fila");
+        System.out.println("\n\t3 - Atender um cliente");
+        System.out.println("\n\t0 - Sair do programa");
+        System.out.print("\n\tEscolha uma opção: ");
     }
 }
